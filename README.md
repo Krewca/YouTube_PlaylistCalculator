@@ -24,3 +24,6 @@ python3 YT_PlaylistCalc.py (no arguments) - App asks for playlist ID and then th
 -v / --viewsOnlyList - Lists only views of videos without their names (for statistical purposes)
 
 -p <ID> / --playlistId <ID> - Pass the playlist ID directly into program argument
+
+  
+# NOTE: You need to edit your own API Key into the file!
