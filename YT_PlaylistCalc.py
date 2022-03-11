@@ -11,6 +11,12 @@ api_key = ''
 
 youtube = build('youtube', 'v3', developerKey=api_key)
 
+print("#####################################")
+print("#       Made by Krewca Software     #")
+print("#       For Hitpoint.cz             #")
+print("#####################################\n")
+print()
+
 parser = argparse.ArgumentParser(
 	description='Counts video views for all videos in playlist. \n' +
 	'Playlist ID is located in playlist URL after \"playlist?list=\"',
